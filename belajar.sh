@@ -31,7 +31,7 @@ echo -e "\e[95m______________________________________________"
 echo -e "\e[93m[\e[91m!\e[93m] \e[97mdilarang merubah author"
 }
 
-function __init__.bash(){
+function __init__.main(){
        clear
 banner
 echo
