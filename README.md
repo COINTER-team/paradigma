@@ -19,7 +19,7 @@ $ apt install less
 $ apt install bash
 $ git clone https://github.com/COINTER-team/paradigma
 $ cd paradigma
-$ bash belajar.sh
+$ bash __init__.bash
 
 ```
 
