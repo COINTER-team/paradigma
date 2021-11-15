@@ -1,7 +1,7 @@
 #!bin/bash
 
-# note jangan merubah sedikit pun isi script ini
-# code : polygon
+# aoalal mudah cok buat nya bocah tk juga bisa
+# code by : polygon
 
 function request(){
      req="curl --silent --ssl --request GET --url https://alphacode.pythonanywhere.com/read/2?title=apa-itu-pardigma-pemograman --location -A 'Mozilla/5.0 (Linux; Android 9; TA-1021) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36'"
