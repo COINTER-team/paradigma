@@ -16,9 +16,10 @@ $ apt install git
 $ apt install toilet
 $ apt install coreutils
 $ apt install less
+$ apt install bash
 $ git clone https://github.com/COINTER-team/paradigma
 $ cd paradigma
-$ bash Animation.sh
+$ bash belajar.sh
 
 ```
 
