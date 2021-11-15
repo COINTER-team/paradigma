@@ -94,5 +94,3 @@ g95jheifsjuppcmrvw6t58rwwmzij8oc6ovk6lsjv6d4s8yr4uqnk4wshczeonbwniblckzazrkn5fnj
            esac
       done
 }
-
-__init__.bash
