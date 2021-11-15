@@ -1,6 +1,6 @@
 #!bin/bash
 
-# aoalal mudah cok buat nya bocah tk juga bisa
+# awokawok mudah cok buat nya bocah tk juga bisa
 # code by : polygon
 
 function request(){
